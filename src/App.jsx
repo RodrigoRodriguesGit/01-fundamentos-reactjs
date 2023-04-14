@@ -4,7 +4,7 @@ import './styles.css'
 
 export function App() {  
   return (
-    <div>
+    <div>      
       <Header />
       <Post 
         author="Rodrigo Rodrigues" 
